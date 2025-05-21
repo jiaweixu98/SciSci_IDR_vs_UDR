@@ -1,0 +1,206 @@
+type,term,contrast,estimate,std.error,statistic,p.value,conf.low,conf.high,discipline,outcome_type,regression_type
+response,treat,Jan-00,0.911618243,0.564225467,1.615698503,0.106159515,-0.194243352,2.017479838,Art,10YearCitation,Zero-inflatedmodels
+response,treat,Jan-00,-0.00520549,0.003857196,-1.34955282,0.177159467,-0.012765455,0.002354475,Art,Reference Cascade NC,lm
+response,treat,Jan-00,-4.095758458,2.346339347,-1.745595096,0.080881335,-8.694499074,0.502982158,Art,Reference Cascade NC,100PercentLm
+response,treat,Jan-00,-0.414865456,0.369872549,-1.121644353,0.262013686,-1.139802332,0.31007142,Art,Reference Cascade SP,lm
+response,treat,Jan-00,-97.68053032,194.9638886,-0.501018578,0.616358048,-479.8027303,284.4416697,Art,Reference Cascade SP,Negative-binomial
+response,treat,Jan-00,-4.690394217,2.910142399,-1.611740449,0.107018432,-10.39416851,1.013380075,Art,Reference Cascade SP,100PercentLm
+response,treat,Jan-00,0.007803221,0.007605994,1.025930535,0.304924328,-0.007104253,0.022710696,Art,Citation Cascade NC,lm
+response,treat,Jan-00,0.373191462,0.299510527,1.246004495,0.212762745,-0.213838383,0.960221308,Art,Citation Cascade NC,100PercentLm
+response,treat,Jan-00,0.073530577,0.147333589,0.499075448,0.617726233,-0.215237952,0.362299106,Art,Citation Cascade SP,lm
+response,treat,Jan-00,0.195242412,0.554862178,0.35187551,0.724931626,-0.892267473,1.282752296,Art,Citation Cascade SP,100PercentLm
+response,treat,Jan-00,0.781378543,2.311105202,0.33809735,0.735289828,-3.748304416,5.311061503,Art,Citation Cascade SP,Negative-binomial
+response,treat,Jan-00,235.8900752,1104.680975,0.213536832,0.830908264,-1929.244849,2401.025,History,10YearCitation,Zero-inflatedmodels
+response,treat,Jan-00,-0.017262107,0.00534465,-3.229792085,0.001238803,-0.027737428,-0.006786786,History,Reference Cascade NC,lm
+response,treat,Jan-00,-11.4851637,2.500480099,-4.593183408,4.37E-06,-16.38601464,-6.584312765,History,Reference Cascade NC,100PercentLm
+response,treat,Jan-00,-1.135836896,0.287091583,-3.956357357,7.61E-05,-1.698526058,-0.573147733,History,Reference Cascade SP,lm
+response,treat,Jan-00,-482.5446678,131.2272756,-3.677167463,0.000235838,-739.7454017,-225.343934,History,Reference Cascade SP,Negative-binomial
+response,treat,Jan-00,-9.09657515,2.808385389,-3.239076511,0.001199174,-14.60090937,-3.592240932,History,Reference Cascade SP,100PercentLm
+response,treat,Jan-00,0.005042446,0.003241437,1.555620593,0.119798339,-0.001310654,0.011395546,History,Citation Cascade NC,lm
+response,treat,Jan-00,0.401778035,0.23569737,1.704635204,0.088262481,-0.060180322,0.863736392,History,Citation Cascade NC,100PercentLm
+response,treat,Jan-00,0.04986051,0.113745105,0.438353021,0.661130396,-0.173075799,0.272796819,History,Citation Cascade SP,lm
+response,treat,Jan-00,0.319636173,0.531286566,0.601626681,0.547422664,-0.721666361,1.360938708,History,Citation Cascade SP,100PercentLm
+response,treat,Jan-00,-2.314552817,4.560348837,-0.507538546,0.611776998,-11.25267229,6.623566662,History,Citation Cascade SP,Negative-binomial
+response,treat,Jan-00,4.619273581,0.294085776,15.70723221,0,4.042876051,5.195671112,Chemistry,10YearCitation,Zero-inflatedmodels
+response,treat,Jan-00,0.000709803,0.00014815,4.791103795,1.66E-06,0.000419434,0.001000172,Chemistry,Reference Cascade NC,lm
+response,treat,Jan-00,2.390485195,0.293909015,8.133419082,4.00E-16,1.81443411,2.96653628,Chemistry,Reference Cascade NC,100PercentLm
+response,treat,Jan-00,0.240952442,0.01022943,23.55482578,0,0.220903128,0.261001757,Chemistry,Reference Cascade SP,lm
+response,treat,Jan-00,1078.285571,37.30500899,28.90457877,0,1005.169097,1151.402045,Chemistry,Reference Cascade SP,Negative-binomial
+response,treat,Jan-00,6.029108023,0.206253045,29.23160739,0,5.624859484,6.433356562,Chemistry,Reference Cascade SP,100PercentLm
+response,treat,Jan-00,-0.00288981,0.000323915,-8.92150347,0,-0.003524673,-0.002254948,Chemistry,Citation Cascade NC,lm
+response,treat,Jan-00,-4.860359849,0.254721042,-19.08110852,0,-5.359603918,-4.36111578,Chemistry,Citation Cascade NC,100PercentLm
+response,treat,Jan-00,-0.238522124,0.012552885,-19.00137826,0,-0.263125327,-0.21391892,Chemistry,Citation Cascade SP,lm
+response,treat,Jan-00,-3.280290849,0.161556746,-20.30426411,0,-3.596936254,-2.963645445,Chemistry,Citation Cascade SP,100PercentLm
+response,treat,Jan-00,-156.7259042,80.48766308,-1.947204058,0.051510275,-314.478825,1.027016681,Chemistry,Citation Cascade SP,Negative-binomial
+response,treat,Jan-00,-0.51051959,0.825432597,-0.618487314,0.536254157,-2.128337752,1.107298572,Philosophy,10YearCitation,Zero-inflatedmodels
+response,treat,Jan-00,-0.008309835,0.003212495,-2.586722894,0.009689348,-0.014606211,-0.00201346,Philosophy,Reference Cascade NC,lm
+response,treat,Jan-00,-6.713276378,2.924976763,-2.295155456,0.021724217,-12.44612549,-0.980427267,Philosophy,Reference Cascade NC,100PercentLm
+response,treat,Jan-00,-0.128040693,0.32438304,-0.394720675,0.693049043,-0.763819768,0.507738383,Philosophy,Reference Cascade SP,lm
+response,treat,Jan-00,-175.0947154,248.8475421,-0.703622442,0.481667931,-662.8269355,312.6375048,Philosophy,Reference Cascade SP,Negative-binomial
+response,treat,Jan-00,0.08736966,3.14720561,0.027761027,0.97785275,-6.081039988,6.255779308,Philosophy,Reference Cascade SP,100PercentLm
+response,treat,Jan-00,-0.018906794,0.010376095,-1.82214927,0.06843234,-0.039243567,0.001429979,Philosophy,Citation Cascade NC,lm
+response,treat,Jan-00,-0.875091299,0.554166855,-1.579111582,0.114310465,-1.961238376,0.211055778,Philosophy,Citation Cascade NC,100PercentLm
+response,treat,Jan-00,-0.09676731,0.131569683,-0.735483336,0.462045185,-0.354639151,0.161104531,Philosophy,Citation Cascade SP,lm
+response,treat,Jan-00,-0.459604744,0.641054726,-0.71695087,0.473404412,-1.716048919,0.796839431,Philosophy,Citation Cascade SP,100PercentLm
+response,treat,Jan-00,-0.511918602,2.349636094,-0.217871441,0.827529279,-5.117120723,4.09328352,Philosophy,Citation Cascade SP,Negative-binomial
+response,treat,Jan-00,8.753352834,1.198254945,7.305083836,2.77E-13,6.404816296,11.10188937,Computer Science,10YearCitation,Zero-inflatedmodels
+response,treat,Jan-00,-0.010156405,0.00064027,-15.86270221,0,-0.011411311,-0.0089015,Computer Science,Reference Cascade NC,lm
+response,treat,Jan-00,-16.52081338,0.800333342,-20.64241551,0,-18.08943791,-14.95218886,Computer Science,Reference Cascade NC,100PercentLm
+response,treat,Jan-00,-0.112561561,0.037101985,-3.033842001,0.002414609,-0.185280116,-0.039843006,Computer Science,Reference Cascade SP,lm
+response,treat,Jan-00,170.6966263,117.0151218,1.458756985,0.144632006,-58.64879812,400.0420507,Computer Science,Reference Cascade SP,Negative-binomial
+response,treat,Jan-00,-0.089284802,0.61277884,-0.145704774,0.884154453,-1.29030926,1.111739655,Computer Science,Reference Cascade SP,100PercentLm
+response,treat,Jan-00,-0.003204499,0.001229372,-2.606615718,0.009144192,-0.005614024,-0.000794975,Computer Science,Citation Cascade NC,lm
+response,treat,Jan-00,-1.945057489,0.533515593,-3.645736907,0.000266627,-2.990728838,-0.899386141,Computer Science,Citation Cascade NC,100PercentLm
+response,treat,Jan-00,0.212644557,0.0389376,5.461162363,4.73E-08,0.136328263,0.288960851,Computer Science,Citation Cascade SP,lm
+response,treat,Jan-00,2.196778371,0.402796149,5.453821682,4.93E-08,1.407312426,2.986244316,Computer Science,Citation Cascade SP,100PercentLm
+response,treat,Jan-00,311.5016413,324.4502036,0.960090756,0.33700954,-324.4090725,947.4123551,Computer Science,Citation Cascade SP,Negative-binomial
+response,treat,Jan-00,2.729710436,1.749525233,1.560257826,0.118698965,-0.69929601,6.158716883,Engineering,10YearCitation,Zero-inflatedmodels
+response,treat,Jan-00,-0.007422513,0.00120371,-6.166362832,6.99E-10,-0.009781741,-0.005063285,Engineering,Reference Cascade NC,lm
+response,treat,Jan-00,-7.28421402,1.104236346,-6.596607735,4.21E-11,-9.448477488,-5.119950552,Engineering,Reference Cascade NC,100PercentLm
+response,treat,Jan-00,0.315342974,0.06256487,5.040256196,4.65E-07,0.192718082,0.437967866,Engineering,Reference Cascade SP,lm
+response,treat,Jan-00,165.9091882,38.43896855,4.316171699,1.59E-05,90.57019422,241.2481821,Engineering,Reference Cascade SP,Negative-binomial
+response,treat,Jan-00,6.186847162,1.000565749,6.183348938,6.28E-10,4.22577433,8.147919994,Engineering,Reference Cascade SP,100PercentLm
+response,treat,Jan-00,-0.000231163,0.001660157,-0.139241507,0.88925931,-0.00348501,0.003022685,Engineering,Citation Cascade NC,lm
+response,treat,Jan-00,-0.226826421,0.629345003,-0.360416655,0.718535574,-1.460319961,1.006667119,Engineering,Citation Cascade NC,100PercentLm
+response,treat,Jan-00,0.104424749,0.046191168,2.260708115,0.023777338,0.013891723,0.194957774,Engineering,Citation Cascade SP,lm
+response,treat,Jan-00,0.835979799,0.457649616,1.826680872,0.067747766,-0.060996965,1.732956564,Engineering,Citation Cascade SP,100PercentLm
+response,treat,Jan-00,109.1885404,100.184278,1.089877,0.275767329,-87.16903632,305.5461171,Engineering,Citation Cascade SP,Negative-binomial
+response,treat,Jan-00,-2.310216774,0.916606071,-2.520403091,0.011722051,-4.106731661,-0.513701887,Materials Science,10YearCitation,Zero-inflatedmodels
+response,treat,Jan-00,-0.001546293,0.000461992,-3.347012358,0.000816876,-0.002451781,-0.000640805,Materials Science,Reference Cascade NC,lm
+response,treat,Jan-00,-3.696986718,0.726304565,-5.09013284,3.58E-07,-5.120517507,-2.273455929,Materials Science,Reference Cascade NC,100PercentLm
+response,treat,Jan-00,0.100148624,0.027097344,3.695883464,0.000219123,0.047038806,0.153258441,Materials Science,Reference Cascade SP,lm
+response,treat,Jan-00,275.1981405,50.62222725,5.436310401,5.44E-08,175.9803983,374.4158827,Materials Science,Reference Cascade SP,Negative-binomial
+response,treat,Jan-00,2.348639483,0.527995186,4.448221399,8.66E-06,1.313787935,3.383491031,Materials Science,Reference Cascade SP,100PercentLm
+response,treat,Jan-00,0.000160378,0.000908305,0.176568458,0.859847372,-0.001619868,0.001940624,Materials Science,Citation Cascade NC,lm
+response,treat,Jan-00,-0.544537362,0.471887078,-1.153956924,0.24851783,-1.46941904,0.380344317,Materials Science,Citation Cascade NC,100PercentLm
+response,treat,Jan-00,0.059467251,0.032179864,1.847964651,0.064607457,-0.003604123,0.122538626,Materials Science,Citation Cascade SP,lm
+response,treat,Jan-00,0.321886893,0.34493385,0.933184416,0.35072476,-0.35417103,0.997944817,Materials Science,Citation Cascade SP,100PercentLm
+response,treat,Jan-00,386.7078309,175.2802714,2.206225651,0.027368204,43.16481179,730.25085,Materials Science,Citation Cascade SP,Negative-binomial
+response,treat,Jan-00,9.908071069,0.470339543,21.06578369,0,8.986222505,10.82991963,Biology,10YearCitation,Zero-inflatedmodels
+response,treat,Jan-00,-0.006288801,0.000208108,-30.21892214,0,-0.006696685,-0.005880917,Biology,Reference Cascade NC,lm
+response,treat,Jan-00,-16.56963626,0.272941785,-60.70758373,0,-17.10459233,-16.03468019,Biology,Reference Cascade NC,100PercentLm
+response,treat,Jan-00,-0.178692785,0.010338766,-17.28376391,0,-0.198956393,-0.158429176,Biology,Reference Cascade SP,lm
+response,treat,Jan-00,-946.9405424,85.01926488,-11.1379526,0,-1113.57524,-780.3058452,Biology,Reference Cascade SP,Negative-binomial
+response,treat,Jan-00,-2.786729394,0.149030304,-18.69907873,0,-3.078823423,-2.494635365,Biology,Reference Cascade SP,100PercentLm
+response,treat,Jan-00,-0.005147207,0.000289567,-17.77554434,0,-0.005714748,-0.004579667,Biology,Citation Cascade NC,lm
+response,treat,Jan-00,-7.763976251,0.252986145,-30.6893338,7.90E-207,-8.259819984,-7.268132519,Biology,Citation Cascade NC,100PercentLm
+response,treat,Jan-00,-0.033502984,0.011940311,-2.80587201,0.005018062,-0.056905564,-0.010100405,Biology,Citation Cascade SP,lm
+response,treat,Jan-00,-0.103766133,0.135979426,-0.763101712,0.445402739,-0.370280911,0.162748645,Biology,Citation Cascade SP,100PercentLm
+response,treat,Jan-00,-185.9839913,100.7821045,-1.845406903,0.06497837,-383.5132864,11.54530375,Biology,Citation Cascade SP,Negative-binomial
+response,treat,Jan-00,0.911618243,0.564225467,1.615698503,0.106159515,-0.194243352,2.017479838,Art,10YearCitation,Zero-inflatedmodels
+response,treat,Jan-00,-0.00520549,0.003857196,-1.34955282,0.177159467,-0.012765455,0.002354475,Art,Reference Cascade NC,lm
+response,treat,Jan-00,-4.095758458,2.346339347,-1.745595096,0.080881335,-8.694499074,0.502982158,Art,Reference Cascade NC,100PercentLm
+response,treat,Jan-00,-0.414865456,0.369872549,-1.121644353,0.262013686,-1.139802332,0.31007142,Art,Reference Cascade SP,lm
+response,treat,Jan-00,-97.68053032,194.9638886,-0.501018578,0.616358048,-479.8027303,284.4416697,Art,Reference Cascade SP,Negative-binomial
+response,treat,Jan-00,-4.690394217,2.910142399,-1.611740449,0.107018432,-10.39416851,1.013380075,Art,Reference Cascade SP,100PercentLm
+response,treat,Jan-00,0.007803221,0.007605994,1.025930535,0.304924328,-0.007104253,0.022710696,Art,Citation Cascade NC,lm
+response,treat,Jan-00,0.373191462,0.299510527,1.246004495,0.212762745,-0.213838383,0.960221308,Art,Citation Cascade NC,100PercentLm
+response,treat,Jan-00,0.073530577,0.147333589,0.499075448,0.617726233,-0.215237952,0.362299106,Art,Citation Cascade SP,lm
+response,treat,Jan-00,0.195242412,0.554862178,0.35187551,0.724931626,-0.892267473,1.282752296,Art,Citation Cascade SP,100PercentLm
+response,treat,Jan-00,0.781378543,2.311105202,0.33809735,0.735289828,-3.748304416,5.311061503,Art,Citation Cascade SP,Negative-binomial
+response,treat,Jan-00,-0.014731253,0.005346839,-2.755132939,0.005866829,-0.025210865,-0.004251641,Environmental Science,Reference Cascade NC,lm
+response,treat,Jan-00,-5.074073938,2.670876328,-1.899778693,0.057462168,-10.30889535,0.160747471,Environmental Science,Reference Cascade NC,100PercentLm
+response,treat,Jan-00,-0.958291199,0.760415946,-1.260219758,0.207590097,-2.448679066,0.532096667,Environmental Science,Reference Cascade SP,lm
+response,treat,Jan-00,-1023.968604,648.2062586,-1.579695645,0.114176584,-2294.429525,246.4923179,Environmental Science,Reference Cascade SP,Negative-binomial
+response,treat,Jan-00,-2.925466871,2.441299545,-1.198323605,0.230791061,-7.710326054,1.859392312,Environmental Science,Reference Cascade SP,100PercentLm
+response,treat,Jan-00,0.005357901,0.009952403,0.538352436,0.590333757,-0.014148452,0.024864253,Environmental Science,Citation Cascade NC,lm
+response,treat,Jan-00,0.050543181,0.394444214,0.128137717,0.898039988,-0.722553271,0.823639634,Environmental Science,Citation Cascade NC,100PercentLm
+response,treat,Jan-00,0.005766825,0.319536412,0.018047473,0.985600982,-0.620513034,0.632046683,Environmental Science,Citation Cascade SP,lm
+response,treat,Jan-00,-0.182311187,0.401866671,-0.453660879,0.650072928,-0.969955389,0.605333014,Environmental Science,Citation Cascade SP,100PercentLm
+response,treat,Jan-00,-1.048085927,1.685164017,-0.621948912,0.533975462,-4.350946708,2.254774855,Political Science,10YearCitation,Zero-inflatedmodels
+response,treat,Jan-00,-0.010728949,0.00826108,-1.298734489,0.194035064,-0.026920368,0.00546247,Political Science,Reference Cascade NC,lm
+response,treat,Jan-00,-5.384970857,3.468605733,-1.5524886,0.120545358,-12.18331317,1.413371456,Political Science,Reference Cascade NC,100PercentLm
+response,treat,Jan-00,-0.912141759,1.077041642,-0.846895537,0.39705335,-3.023104587,1.198821068,Political Science,Reference Cascade SP,lm
+response,treat,Jan-00,-2534.0158,2430.31297,-1.042670566,0.297100895,-7297.341693,2229.310093,Political Science,Reference Cascade SP,Negative-binomial
+response,treat,Jan-00,-3.709732446,3.409734791,-1.087982695,0.276602747,-10.39268983,2.97322494,Political Science,Reference Cascade SP,100PercentLm
+response,treat,Jan-00,0.014292239,0.007025616,2.034304136,0.04192094,0.000522285,0.028062193,Political Science,Citation Cascade NC,lm
+response,treat,Jan-00,1.830757831,0.906725229,2.01908778,0.043478097,0.053609037,3.607906624,Political Science,Citation Cascade NC,100PercentLm
+response,treat,Jan-00,0.400994118,0.284332519,1.410299883,0.158451153,-0.156287378,0.958275614,Political Science,Citation Cascade SP,lm
+response,treat,Jan-00,0.784320465,0.745218395,1.052470618,0.292583684,-0.67628075,2.244921679,Political Science,Citation Cascade SP,100PercentLm
+response,treat,Jan-00,13.214168,1.221568709,10.81737597,2.85E-27,10.81993733,15.60839868,Economics,10YearCitation,Zero-inflatedmodels
+response,treat,Jan-00,-0.019668519,0.000788783,-24.93528822,3.08E-137,-0.021214505,-0.018122534,Economics,Reference Cascade NC,lm
+response,treat,Jan-00,-32.12711145,1.027942392,-31.25380536,1.98E-214,-34.14184151,-30.11238138,Economics,Reference Cascade NC,100PercentLm
+response,treat,Jan-00,-0.965803517,0.054597194,-17.68961831,5.04E-70,-1.07281205,-0.858794984,Economics,Reference Cascade SP,lm
+response,treat,Jan-00,-904.9203393,76.88771378,-11.76937504,5.61E-32,-1055.617489,-754.2231894,Economics,Reference Cascade SP,Negative-binomial
+response,treat,Jan-00,-15.05828566,0.897281415,-16.78212143,3.30E-63,-16.81692492,-13.29964641,Economics,Reference Cascade SP,100PercentLm
+response,treat,Jan-00,-0.00580796,0.001297182,-4.477368023,7.56E-06,-0.00835039,-0.003265531,Economics,Citation Cascade NC,lm
+response,treat,Jan-00,-4.37233201,0.782272813,-5.589267503,2.28E-08,-5.905558549,-2.839105471,Economics,Citation Cascade NC,100PercentLm
+response,treat,Jan-00,0.019188479,0.055561509,0.34535561,0.729827045,-0.089710077,0.128087034,Economics,Citation Cascade SP,lm
+response,treat,Jan-00,0.143535254,0.649327852,0.221052052,0.825051904,-1.12912395,1.416194457,Economics,Citation Cascade SP,100PercentLm
+response,treat,Jan-00,-234.0191096,126.4011203,-1.851400596,0.064111943,-481.760753,13.72253389,Economics,Citation Cascade SP,Negative-binomial
+response,treat,Jan-00,-0.871344021,0.948601471,-0.918556472,0.358327608,-2.73056874,0.987880698,Sociology,10YearCitation,Zero-inflatedmodels
+response,treat,Jan-00,-0.004775359,0.002291313,-2.084114962,0.037149711,-0.00926625,-0.000284469,Sociology,Reference Cascade NC,lm
+response,treat,Jan-00,-6.463211647,2.632355794,-2.455295619,0.014076877,-11.6225342,-1.303889097,Sociology,Reference Cascade NC,100PercentLm
+response,treat,Jan-00,-0.86221066,0.264955874,-3.254166995,0.001137254,-1.381514631,-0.34290669,Sociology,Reference Cascade SP,lm
+response,treat,Jan-00,-690.8135614,221.8460714,-3.113931913,0.001846121,-1125.623871,-256.0032515,Sociology,Reference Cascade SP,Negative-binomial
+response,treat,Jan-00,-10.89162181,3.126121308,-3.48406883,0.000493852,-17.01870698,-4.764536634,Sociology,Reference Cascade SP,100PercentLm
+response,treat,Jan-00,0.00318554,0.003954736,0.805500126,0.420531134,-0.0045656,0.01093668,Sociology,Citation Cascade NC,lm
+response,treat,Jan-00,0.887044079,1.722027476,0.515116101,0.606471892,-2.488067754,4.262155913,Sociology,Citation Cascade NC,100PercentLm
+response,treat,Jan-00,0.026682199,0.150254043,0.177580574,0.859052382,-0.267810313,0.321174711,Sociology,Citation Cascade SP,lm
+response,treat,Jan-00,-0.106153362,1.240622172,-0.085564618,0.931812526,-2.537728137,2.325421412,Sociology,Citation Cascade SP,100PercentLm
+response,treat,Jan-00,-30.22724455,183.5309452,-0.164698354,0.869181413,-389.9412873,329.4867982,Sociology,Citation Cascade SP,Negative-binomial
+response,treat,Jan-00,9.983799753,1.064374107,9.379972405,6.60E-21,7.897664837,12.06993467,Geology,10YearCitation,Zero-inflatedmodels
+response,treat,Jan-00,-0.007008654,0.000554424,-12.64131623,1.25E-36,-0.008095305,-0.005922002,Geology,Reference Cascade NC,lm
+response,treat,Jan-00,-16.27049219,1.095998916,-14.84535428,7.46E-50,-18.41861059,-14.12237379,Geology,Reference Cascade NC,100PercentLm
+response,treat,Jan-00,-0.527172611,0.034367779,-15.33915259,4.19E-53,-0.594532221,-0.459813002,Geology,Reference Cascade SP,lm
+response,treat,Jan-00,-2043.465283,129.353462,-15.79753067,3.24E-56,-2296.99341,-1789.937156,Geology,Reference Cascade SP,Negative-binomial
+response,treat,Jan-00,-12.61615347,0.70378852,-17.92605748,7.38E-72,-13.99555363,-11.23675332,Geology,Reference Cascade SP,100PercentLm
+response,treat,Jan-00,-0.013017169,0.001417777,-9.181394211,4.26E-20,-0.015795961,-0.010238378,Geology,Citation Cascade NC,lm
+response,treat,Jan-00,-13.63336737,0.875245665,-15.57661799,1.05E-54,-15.34881736,-11.91791739,Geology,Citation Cascade NC,100PercentLm
+response,treat,Jan-00,-0.068802622,0.046001981,-1.495644773,0.134746249,-0.158964848,0.021359603,Geology,Citation Cascade SP,lm
+response,treat,Jan-00,-0.585068815,0.563000316,-1.039198023,0.29871265,-1.688529157,0.518391527,Geology,Citation Cascade SP,100PercentLm
+response,treat,Jan-00,197.3965535,147.6158048,1.337231835,0.181146973,-91.92510742,486.7182144,Geology,Citation Cascade SP,Negative-binomial
+response,treat,Jan-00,-0.025864779,0.004300284,-6.014667113,1.80E-09,-0.034293182,-0.017436377,Business,Reference Cascade NC,lm
+response,treat,Jan-00,-27.59147959,4.590918007,-6.010013585,1.86E-09,-36.58951354,-18.59344564,Business,Reference Cascade NC,100PercentLm
+response,treat,Jan-00,-0.671943768,0.301693103,-2.227242722,0.025931056,-1.263251384,-0.080636152,Business,Reference Cascade SP,lm
+response,treat,Jan-00,-391.9480595,368.7475156,-1.062917153,0.287819523,-1114.679909,330.7837904,Business,Reference Cascade SP,Negative-binomial
+response,treat,Jan-00,-5.264753481,3.544648102,-1.485268306,0.137472764,-12.2121361,1.682629138,Business,Reference Cascade SP,100PercentLm
+response,treat,Jan-00,-0.025733094,0.018773147,-1.37073951,0.170456173,-0.062527786,0.011061598,Business,Citation Cascade NC,lm
+response,treat,Jan-00,-1.768968259,1.151526408,-1.536194261,0.124490743,-4.025918546,0.487982028,Business,Citation Cascade NC,100PercentLm
+response,treat,Jan-00,0.240247239,0.2990068,0.803484196,0.421694927,-0.345795321,0.826289799,Business,Citation Cascade SP,lm
+response,treat,Jan-00,0.900594112,1.965822162,0.458125933,0.646861969,-2.952346526,4.75353475,Business,Citation Cascade SP,100PercentLm
+response,treat,Jan-00,317.3098044,126.9212767,2.5000521,0.012417504,68.54867321,566.0709357,Business,Citation Cascade SP,Negative-binomial
+response,treat,Jan-00,5.707886814,0.912023986,6.258483224,3.89E-10,3.920352649,7.495420979,Psychology,10YearCitation,Zero-inflatedmodels
+response,treat,Jan-00,-0.009687599,0.000484429,-19.99796875,5.74E-89,-0.010637063,-0.008738135,Psychology,Reference Cascade NC,lm
+response,treat,Jan-00,-20.77922696,0.850621748,-24.42828085,8.56E-132,-22.44641496,-19.11203897,Psychology,Reference Cascade NC,100PercentLm
+response,treat,Jan-00,-1.112643153,0.042881744,-25.94677915,1.98E-148,-1.196689828,-1.028596479,Psychology,Reference Cascade SP,lm
+response,treat,Jan-00,-3325.47102,152.2049362,-21.84864107,8.01E-106,-3623.787213,-3027.154826,Psychology,Reference Cascade SP,Negative-binomial
+response,treat,Jan-00,-18.9490828,0.637166008,-29.73963229,2.36E-194,-20.19790522,-17.70026037,Psychology,Reference Cascade SP,100PercentLm
+response,treat,Jan-00,-0.001026777,0.000970639,-1.057836054,0.290130192,-0.002929193,0.00087564,Psychology,Citation Cascade NC,lm
+response,treat,Jan-00,-2.414395708,0.713126725,-3.385647492,0.000710105,-3.812098405,-1.016693011,Psychology,Citation Cascade NC,100PercentLm
+response,treat,Jan-00,-0.147429303,0.041966014,-3.513064237,0.00044297,-0.229681179,-0.065177427,Psychology,Citation Cascade SP,lm
+response,treat,Jan-00,-1.858827552,0.463973739,-4.006320613,6.17E-05,-2.76819937,-0.949455735,Psychology,Citation Cascade SP,100PercentLm
+response,treat,Jan-00,-255.7515295,182.9534612,-1.397904843,0.162141644,-614.3337243,102.8306653,Psychology,Citation Cascade SP,Negative-binomial
+response,treat,Jan-00,1.535700848,0.264064263,5.815633017,6.04E-09,1.018144402,2.053257293,Medicine,10YearCitation,Zero-inflatedmodels
+response,treat,Jan-00,-0.004179908,9.35E-05,-44.69090881,0,-0.004363223,-0.003996594,Medicine,Reference Cascade NC,lm
+response,treat,Jan-00,-8.951044006,0.165186735,-54.18742613,0,-9.274804057,-8.627283954,Medicine,Reference Cascade NC,100PercentLm
+response,treat,Jan-00,0.435975799,0.005633974,77.38335161,0,0.424933412,0.447018185,Medicine,Reference Cascade SP,lm
+response,treat,Jan-00,1958.94212,24.91246084,78.63302355,0,1910.114594,2007.769646,Medicine,Reference Cascade SP,Negative-binomial
+response,treat,Jan-00,11.93976437,0.109589704,108.9496907,0,11.72497249,12.15455624,Medicine,Reference Cascade SP,100PercentLm
+response,treat,Jan-00,-0.002147381,0.000144657,-14.84461754,7.54E-50,-0.002430904,-0.001863858,Medicine,Citation Cascade NC,lm
+response,treat,Jan-00,-2.436379823,0.122618422,-19.86960668,7.46E-88,-2.676707515,-2.196052132,Medicine,Citation Cascade NC,100PercentLm
+response,treat,Jan-00,0.253324526,0.00732143,34.60041414,2.49E-262,0.238974786,0.267674266,Medicine,Citation Cascade SP,lm
+response,treat,Jan-00,2.969432706,0.077570359,38.28050723,0,2.817397595,3.121467817,Medicine,Citation Cascade SP,100PercentLm
+response,treat,Jan-00,1797.862984,17405.50498,0.103292779,0.917730606,-32316.29991,35912.02588,Medicine,Citation Cascade SP,Negative-binomial
+response,treat,Jan-00,8.395762693,1.830818708,4.585796865,4.52E-06,4.807423963,11.98410142,Physics,10YearCitation,Zero-inflatedmodels
+response,treat,Jan-00,-0.004987157,0.000313563,-15.90478633,5.87E-57,-0.00560173,-0.004372585,Physics,Reference Cascade NC,lm
+response,treat,Jan-00,-7.049858149,0.292620993,-24.09211341,3.02E-128,-7.623384756,-6.476331541,Physics,Reference Cascade NC,100PercentLm
+response,treat,Jan-00,0.031393558,0.01557091,2.016167274,0.043782487,0.000875136,0.061911981,Physics,Reference Cascade SP,lm
+response,treat,Jan-00,41.99258483,44.66796811,0.940105105,0.347163651,-45.55502392,129.5401936,Physics,Reference Cascade SP,Negative-binomial
+response,treat,Jan-00,0.893449256,0.198912918,4.49166029,7.07E-06,0.5035871,1.283311412,Physics,Reference Cascade SP,100PercentLm
+response,treat,Jan-00,-0.008330846,0.00055853,-14.91566768,2.61E-50,-0.009425544,-0.007236147,Physics,Citation Cascade NC,lm
+response,treat,Jan-00,-4.769893772,0.211174392,-22.58746299,5.76E-113,-5.183787975,-4.355999569,Physics,Citation Cascade NC,100PercentLm
+response,treat,Jan-00,-0.090764273,0.015059427,-6.02707361,1.67E-09,-0.120280207,-0.061248339,Physics,Citation Cascade SP,lm
+response,treat,Jan-00,-1.25753576,0.148498746,-8.468325765,2.49E-17,-1.548587955,-0.966483565,Physics,Citation Cascade SP,100PercentLm
+response,treat,Jan-00,-294.8389078,87.3069398,-3.377038623,0.000732708,-465.9573654,-123.7204501,Physics,Citation Cascade SP,Negative-binomial
+response,treat,Jan-00,2.519371659,0.404038599,6.235472706,4.50E-10,1.727470556,3.311272762,Mathematics,10YearCitation,Zero-inflatedmodels
+response,treat,Jan-00,-0.009327897,0.000370935,-25.14697569,1.53E-139,-0.010054917,-0.008600878,Mathematics,Reference Cascade NC,lm
+response,treat,Jan-00,-13.88774407,0.40176093,-34.56718416,7.87E-262,-14.67518102,-13.10030712,Mathematics,Reference Cascade NC,100PercentLm
+response,treat,Jan-00,0.388294603,0.015376791,25.25199245,1.08E-140,0.358156647,0.418432559,Mathematics,Reference Cascade SP,lm
+response,treat,Jan-00,564.0101739,17.41115744,32.393606,3.38E-230,529.8849324,598.1354154,Mathematics,Reference Cascade SP,Negative-binomial
+response,treat,Jan-00,11.20061199,0.299780292,37.3627363,1.57E-305,10.61305342,11.78817057,Mathematics,Reference Cascade SP,100PercentLm
+response,treat,Jan-00,-0.02294213,0.000828672,-27.68541707,1.05E-168,-0.024566297,-0.021317963,Mathematics,Citation Cascade NC,lm
+response,treat,Jan-00,-9.335994331,0.273921515,-34.08273472,1.33E-254,-9.872870635,-8.799118027,Mathematics,Citation Cascade NC,100PercentLm
+response,treat,Jan-00,0.36643405,0.017226931,21.2709996,2.11E-100,0.332669885,0.400198215,Mathematics,Citation Cascade SP,lm
+response,treat,Jan-00,4.688314519,0.208179106,22.52058144,2.61E-112,4.280290968,5.096338069,Mathematics,Citation Cascade SP,100PercentLm
+response,treat,Jan-00,282.022592,33.53793857,8.409061619,4.13E-17,216.2894403,347.7557437,Mathematics,Citation Cascade SP,Negative-binomial
