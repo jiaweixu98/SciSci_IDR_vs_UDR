@@ -27,7 +27,7 @@ Code to generate visualizations of treatment effect sizes and their associated u
 If you use this code in your research, please cite our paper:
 
 ```
-@article{https://doi.org/10.1002/asi.25014,
+@article{knowledgeIDR2025Xu,
 author = {Xu, Jiawei and Zheng, Zhihan and Min, Chao and Huang, Win-bin and Bu, Yi},
 title = {Knowledge integration and diffusion structures of interdisciplinary research: A large-scale analysis based on propensity score matching},
 journal = {Journal of the Association for Information Science and Technology},
